@@ -1,0 +1,60 @@
+x+y= addition
+x-y= subtraction
+x*y= multiplication
+x/y= division
+x**y= raising x to the power of y
+the infix operator @ are used for the scalar product and the corresponding matrix operations. 
+
+x//y= the integer part of x divided by y, meaning x is divided by y and the 
+result is rounded down to the nearest integer. For instance,14//3 gives 4 and -14//3 gives −5
+
+x%y modulo, which means the remainder after x is divided by y. For 
+instance, 14%3 gives 2, because 14 divided by 3 gives 4-remainder2
+
+x|y= bitwise (binary) OR of two integers
+x&y= bitwise (binary) AND of two integers
+x^y= bitwise (binary) XOR of two integers
+x>>y= shift the bits of integer x rightwards y places
+x<<y= shift the bits of integer x leftwards y places
+
+log=                natural logarithm
+log10=              log base 10
+exp=                exponential
+sin, cos, tan=      sine, cosine, tangent (argument in radians)
+asin, acos, atan=   arcsine, arccosine, arctangent (in radians)
+sinh, cosh, tanh=   hyperbolic sine, cosine, tangent
+sqrt=               positive square root
+
+
+
+
+GOOD PROGRAMMING STYLE
+1. Include comments in your programs.
+2. Use meaningful variable names.
+3. Use the right types of variables.
+4. Import functions first.
+5. Give your constants names.
+6. Employ user-defined functions, where appropriate.
+7. Print out partial results and updates throughout your program.
+8. Lay out your programs clearly.
+9. Don’t make your programs unnecessarily complicated. 
+
+
+
+Python has 31 keywords1:
+and
+ del
+ from 
+not while as elif global or with assert else if pass yield break except import print class exec in raise continue finally is return def for lambda try
+
+
+a += 1  # same as a = a + 1 
+a *= 3  # same as a = 3 * a
+
+ This may be combined in L[i:-j] to remove the first i and the last j elements:
+
+
+
+
+
+
